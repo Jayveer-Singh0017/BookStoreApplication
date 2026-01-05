@@ -65,11 +65,6 @@ IDE (IntelliJ IDEA / Eclipse)
 
 Steps
 
-Clone the repository
-
-git clone https://github.com/your-username/book-store-application.git
-
-
 Configure Database
 Update application.properties:
 
